@@ -1,6 +1,6 @@
 # DECISIONS.md — Kairuvë
 
-Decisiones de diseño vigentes. Nunca modificar sin debate previo con Rodhan.
+Decisiones de diseño vigentes. Nunca modificar sin debate previo con Anderson.
 Si una decisión es superada, marcarla `[SUPERSEDED por DEC-XXX]`.
 
 ***
