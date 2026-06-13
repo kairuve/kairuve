@@ -3,13 +3,13 @@
 > Este archivo es el punto de entrada de cada sesión. Leerlo primero, siempre.
 
 ## Estado actual
-- **Fase**: 0 — Inicialización del proyecto
-- **Última sesión**: 2026-06-10
-- **Última tarea completada**: Creación del repositorio y estructura base
+- **Fase**: 0 → 1 — Construcción autónoma de base técnica
+- **Última sesión**: 2026-06-12
+- **Última tarea completada**: Construcción autónoma fase 0→1 (scripts, docs, firmware stubs, ROS stubs)
 
 ## Próxima tarea
-- [ ] Definir DOF y configuración mecánica del primer brazo (DEC-001)
-- [ ] Levantar BOM inicial con componentes AliExpress
+- [ ] Definir DEC-001 (DOF del brazo) con Anderson
+- [ ] Definir DEC-002 (MCU) con Anderson
 
 ## Alertas para Perplexity
 _(vacío — sin alertas activas)_
