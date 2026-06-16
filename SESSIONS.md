@@ -56,3 +56,22 @@ Log de sesiones de trabajo. Una entrada por sesión.
 **Pendiente para próxima sesión**:
 - DEC-001: Definir DOF del primer brazo (con Anderson)
 - DEC-002: Elegir MCU (con Anderson)
+
+***
+
+## SESIÓN 003 — 2026-06-15
+**Participantes**: Anderson + Claude Code
+**Tareas completadas**:
+- DEC-001 cerrada: 4 DOF (base + hombro + codo + gripper servo)
+- DEC-002 cerrada: Arduino Mega 2560 con AccelStepper
+- BOM.md actualizado con cantidades definitivas para Fase 1
+
+**Decisiones tomadas**: DEC-001, DEC-002
+
+**Archivos modificados**:
+- `DECISIONS.md`
+- `docs/BOM.md`
+- `STATUS.md`
+- `SESSIONS.md`
+
+**Próxima sesión**: Diseño CAD en FreeCAD + crear estructura cad/freecad/ y cad/stl/
