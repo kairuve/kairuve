@@ -3,8 +3,8 @@
 ## Fase 0 — Inicialización (actual)
 - [x] Nombre y concepto definidos
 - [x] Repositorio creado
-- [ ] DEC-001: Configuración mecánica del primer brazo
-- [ ] DEC-002: MCU de control elegido
+- [ ] [DEC-001](DECISIONS.md#dec-001): Configuración mecánica del primer brazo
+- [ ] [DEC-002](DECISIONS.md#dec-002): MCU de control elegido
 - [ ] BOM inicial levantado
 
 ## Fase 1 — Prototipo mínimo (1 brazo, 2 DOF)
@@ -24,7 +24,7 @@
 ## Fase 4 — Sistema completo (2 brazos)
 - [ ] Segundo brazo construido y calibrado
 - [ ] Coordinación entre brazos vía ROS topics
-- [ ] Manual de construcción publicado (ASSEMBLY.md completo)
+- [ ] Manual de construcción publicado ([ASSEMBLY.md](docs/ASSEMBLY.md) completo)
 
 ## Fase 5 — Open-source release
 - [ ] Documentación completa en español

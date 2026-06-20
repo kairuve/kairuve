@@ -2,7 +2,7 @@
 
 > Generado automáticamente por `/graphify` — sesión 2026-06-15.
 > 45 nodos · 50 aristas · 15 comunidades detectadas.
-> Fuente de verdad: ROADMAP.md, DECISIONS.md, SESSIONS.md, CONTRIBUTING.md.
+> Fuente de verdad: ROADMAP.md, [DECISIONS.md](../DECISIONS.md), [SESSIONS.md](../SESSIONS.md), [CONTRIBUTING.md](../CONTRIBUTING.md).
 
 ---
 
@@ -200,11 +200,11 @@ timeline
 
 ## 5. Matriz de completitud
 
-> Basada en los destinos de escritura definidos en `CONTRIBUTING.md`.
+> Basada en los destinos de escritura definidos en [CONTRIBUTING.md](../CONTRIBUTING.md).
 
 | Archivo / Carpeta esperado | Estado | Notas |
 |---|---|---|
-| `DECISIONS.md` | ✅ | DEC-001 y DEC-002 pendientes; DEC-003 vigente |
+| [DECISIONS.md](../DECISIONS.md) | ✅ | DEC-001 y DEC-002 pendientes; DEC-003 vigente |
 | `docs/BOM.md` | ✅ | Cantidades TBD bloqueadas por DEC-001/002 |
 | `docs/ASSEMBLY.md` | 🚧 | Estructura prevista, sin contenido real aún |
 | `docs/ARCHITECTURE.md` | ✅ | Completo con interfaces y decisiones pendientes |

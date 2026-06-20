@@ -1,7 +1,7 @@
 # BOM.md — Bill of Materials
 
 > Precios referenciales AliExpress + disponibilidad Perú. Actualizar por sesión.
-> Cantidades definidas para Fase 1 (1 brazo, 4 DOF) según DEC-001 y DEC-002.
+> Cantidades definidas para Fase 1 (1 brazo, 4 DOF) según [DEC-001](../DECISIONS.md#dec-001) y [DEC-002](../DECISIONS.md#dec-002).
 
 | Componente | Cantidad | Precio USD ref. | Búsqueda AliExpress | Disponible Perú | Estado |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | Reductor cicloidal NEMA17 1:9 | 1 | $10–15 c/u | "cycloidal gearbox NEMA17 1:9" | No (importar) | Por confirmar |
 | Reductor cicloidal NEMA23 1:16 | 2 | $18–25 c/u | "cycloidal gearbox NEMA23 1:16" | No (importar) | Por confirmar |
 | Driver TMC2209 (STEP/DIR) | 3 | $2 c/u | "TMC2209 stepper driver" | Sí (genérico) | Por confirmar |
-| Raspberry Pi Pico | — | — | — | — | No aplica — DEC-002 |
+| Raspberry Pi Pico | — | — | — | — | No aplica — [DEC-002](../DECISIONS.md#dec-002) |
 | Arduino Mega 2560 | 1 | $10–15 c/u | "Arduino Mega 2560" | Sí | Por confirmar |
 | Perfil aluminio 2020 (1m) | 4 | $2–3 c/u | "2020 aluminum profile extrusion" | Sí (genérico) | Por confirmar |
 | Servo gripper MG996R | 1 | $3–5 c/u | "MG996R servo" | Sí (genérico) | Por confirmar |

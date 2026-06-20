@@ -4,11 +4,11 @@
 
 ## Estado actual
 - **Fase**: 1 — Prototipo mínimo (en preparación)
-- **Última sesión**: 2026-06-15
-- **Última tarea completada**: DEC-001 y DEC-002 cerradas — 4 DOF + Arduino Mega
+- **Última sesión**: 2026-06-20
+- **Última tarea completada**: Sistema de referencias cruzadas implementado en todos los .md
 
 ## Próxima tarea
-- [ ] Diseño CAD del brazo en FreeCAD (4 DOF) + crear estructura cad/freecad/ y cad/stl/
+- [ ] Diseño CAD del brazo en FreeCAD (4 DOF) + crear cad/
 
 ## Alertas para Perplexity
 _(vacío — sin alertas activas)_

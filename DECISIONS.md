@@ -5,6 +5,7 @@ Si una decisión es superada, marcarla `[SUPERSEDED por DEC-XXX]`.
 
 ***
 
+<a id="dec-001"></a>
 ## DEC-001 — Configuración mecánica del primer brazo
 **Estado**: Vigente
 **Decisión**: 4 DOF — base + hombro + codo + gripper servo
@@ -21,6 +22,7 @@ de muñeca (pitch/roll) quedan diferidos para Fase 4 si el caso de uso lo exige.
 
 ***
 
+<a id="dec-002"></a>
 ## DEC-002 — MCU de control de steppers
 **Estado**: Vigente
 **Decisión**: Arduino Mega 2560
@@ -35,6 +37,7 @@ steppers es significativamente menos maduro.
 
 ***
 
+<a id="dec-003"></a>
 ## DEC-003 — Stack de IA (decidido — heredado de Makinor)
 **Estado**: Vigente
 **Decisión**: Reusar stack de Makinor (Jetson Nano + ROS Melodic + Vosk + OpenCV)

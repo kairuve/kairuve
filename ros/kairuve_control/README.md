@@ -21,4 +21,4 @@ para el MCU (Pico/Arduino Mega) que controla los motores del brazo.
 - `geometry_msgs`
 
 ## Estado
-Implementación pendiente de DEC-001 (DOF) y DEC-002 (MCU).
+Implementación pendiente de [DEC-001](../../DECISIONS.md#dec-001) (DOF) y [DEC-002](../../DECISIONS.md#dec-002) (MCU).

@@ -10,4 +10,4 @@ Jetson Nano por puerto serial.
 - Librería [AccelStepper](https://www.airspayce.com/mikem/arduino/AccelStepper/)
 
 ## Estado
-Firmware principal pendiente de DEC-002.
+Firmware principal pendiente de [DEC-002](../../DECISIONS.md#dec-002).

@@ -47,13 +47,13 @@
 
 ## Decisiones pendientes
 
-### DEC-001 — Configuración mecánica del primer brazo (DOF)
+### [DEC-001](../DECISIONS.md#dec-001) — Configuración mecánica del primer brazo (DOF)
 **Estado**: Por decidir con Anderson
 **Impacto en esta arquitectura**: define cantidad de motores NEMA17/23, reductores
-y nodos de control necesarios en `ros/kairuve_control`. Ver `DECISIONS.md`.
+y nodos de control necesarios en `ros/kairuve_control`. Ver [DECISIONS.md](../DECISIONS.md).
 
-### DEC-002 — MCU de control de steppers
+### [DEC-002](../DECISIONS.md#dec-002) — MCU de control de steppers
 **Estado**: Por decidir con Anderson
 **Impacto en esta arquitectura**: define el firmware en `firmware/pico/` o
 `firmware/arduino/`, el lenguaje (MicroPython/C++ vs Arduino C++) y el formato
-exacto del protocolo serial Jetson → MCU. Ver `DECISIONS.md`.
+exacto del protocolo serial Jetson → MCU. Ver [DECISIONS.md](../DECISIONS.md).
