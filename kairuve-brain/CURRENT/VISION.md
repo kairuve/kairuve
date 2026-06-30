@@ -42,7 +42,31 @@ Brazo robot manipulador de 4 grados de libertad (DOF) con control ROS Melodic, v
 - Control: ROS topics + visión RGB-D
 - Autonomía: detección objetos → planificación trayectoria → ejecución
 
-> ⚠️ Pendiente — completar con Rodhan: casos de uso específicos (sorting objetos, assembly kits, servicio café), carga útil máxima (gramos), precisión requerida (mm)
+**Casos de uso y especificaciones:**
+
+> 📝 Provisional — afinar con Rodhan en sesión dedicada (requiere pruebas hardware)
+
+**Casos de uso específicos:**
+1. **Sorting objetos** (clasificación piezas por tipo/color):
+   - Visión RGB-D detecta objetos en mesa → brazo pick objeto → place en bin según clase
+   - Aplicación: ordenar componentes electrónicos, piezas Lego, herramientas
+2. **Assembly kits** (ensamblaje asistido):
+   - Pick componente → posicionar en fixture → hold mientras operador atornilla
+   - Aplicación: "tercer brazo" para makers (soldar, pegar, ensamblar)
+3. **Servicio café** (pick-and-place vasos):
+   - Pick vaso vacío → place bajo cafetera → espera → entrega a usuario
+   - Aplicación: demo de robótica de servicio, educación HRI
+
+**Carga útil máxima:**
+- **Estimada:** 500g (0.5 kg) — brazos NEMA 17/23 con 4 DOF
+- **Validación:** requiere cálculo torque por articulación + pruebas reales
+- **Aplicación:** objetos ligeros (vasos, herramientas manuales, componentes)
+
+**Precisión requerida:**
+- **Estimada:** ±5mm (repetibilidad posicionamiento end-effector)
+- **Suficiente para:** pick-and-place objetos >3cm, assembly no crítico
+- **Insuficiente para:** micro-ensamblaje (<1mm tolerancia)
+- **Validación:** requiere calibración cinemática + mediciones reales
 
 ## Arquitectura de producto
 
