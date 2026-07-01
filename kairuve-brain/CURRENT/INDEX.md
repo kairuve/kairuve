@@ -1,16 +1,56 @@
 ---
 type: reference
-title: "Índice OKF — kairuve-brain/CURRENT"
-description: "Índice de archivos clasificados por tipo OKF"
-tags: [index, okf, navigation]
-timestamp: 2026-06-27
+title: "Índice OKF — CURRENT"
+description: "Índice de todos los archivos en CURRENT/ clasificados por tipo OKF"
+tags: [index, okf, navigation, metadata]
+timestamp: 2026-06-30
 ---
 
-# Índice OKF — kairuve-brain/CURRENT
+# Índice OKF — CURRENT/
 
-| Archivo | Tipo |
+> **OKF** = Operational Knowledge Framework
+> Clasificación tipo: `concept` | `runbook` | `reference` | `log`
+
+## Por tipo
+
+### `concept` — Arquitectura y diseño (2)
+| Archivo | Tags |
 |---|---|
-| [DECISIONS.md](DECISIONS.md) | reference |
-| [STATUS.md](STATUS.md) | log |
+| [ARCHITECTURE.md](ARCHITECTURE.md) | architecture, jetson, ros, arduino, opencv, onnx, vosk |
+| [ROADMAP.md](ROADMAP.md) | roadmap, phases, milestones, hardware, robotics |
 
-**Total**: 2 archivos
+### `runbook` — Protocolos y procedimientos (0)
+| Archivo | Tags |
+|---|---|
+
+### `reference` — Configuración y registros (4)
+| Archivo | Tags |
+|---|---|
+| [DECISIONS.md](DECISIONS.md) | decisions |
+| [GROWTH.md](GROWTH.md) | growth, comercial, adquisicion, estrategia |
+| [INDEX.md](INDEX.md) | index, okf, navigation, metadata |
+| [VISION.md](VISION.md) | vision, product, estrategia |
+
+### `log` — Estado y auditorías (1)
+| Archivo | Tags |
+|---|---|
+| [STATUS.md](STATUS.md) | documentation |
+
+---
+
+## Estadísticas
+- **Total archivos**: 7
+- **Tipo `concept`**: 2
+- **Tipo `runbook`**: 0
+- **Tipo `reference`**: 4
+- **Tipo `log`**: 1
+
+---
+
+## Archivos clave para inicio sesión
+1. **[STATUS.md](STATUS.md)** — estado actual volátil
+2. **[DECISIONS.md](DECISIONS.md)** — decisiones vigentes
+3. **[VISION.md](VISION.md)** — visión del producto (si existe)
+4. **[ARCHITECTURE.md](ARCHITECTURE.md)** — arquitectura del sistema (si existe)
+
+*Última actualización: 2026-06-30*

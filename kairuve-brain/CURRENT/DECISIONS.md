@@ -99,3 +99,14 @@ Registro de decisiones técnicas vigentes que afectan la implementación del pro
 ---
 
 *Agregar nuevas decisiones técnicas al final de este archivo.*
+
+---
+
+## DEC-005 — Convención de referencias cruzadas
+
+**Fecha:** 2026-06-30  
+**Decisión:** Links Markdown con anclas para todas las referencias cruzadas.  
+Patrón: [DEC-NNN](DECISIONS.md#dec-nnn) — nunca duplicar contenido, solo referenciar.  
+Decisiones superadas: marcar [SUPERSEDED por DEC-XXX] al inicio de la sección.  
+**Estado:** VIGENTE
+
