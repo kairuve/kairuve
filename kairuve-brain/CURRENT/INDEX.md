@@ -19,9 +19,11 @@ timestamp: 2026-06-30
 | [ARCHITECTURE.md](ARCHITECTURE.md) | architecture, jetson, ros, arduino, opencv, onnx, vosk |
 | [ROADMAP.md](ROADMAP.md) | roadmap, phases, milestones, hardware, robotics |
 
-### `runbook` — Protocolos y procedimientos (0)
+### `runbook` — Protocolos y procedimientos (2)
 | Archivo | Tags |
 |---|---|
+| [AGENTS-PROTOCOL.md](AGENTS-PROTOCOL.md) | protocol, agents, perplexity, claude-code |
+| [TROUBLESHOOTING.md](TROUBLESHOOTING.md) | troubleshooting, errors, debugging, runbook |
 
 ### `reference` — Configuración y registros (4)
 | Archivo | Tags |
@@ -39,9 +41,9 @@ timestamp: 2026-06-30
 ---
 
 ## Estadísticas
-- **Total archivos**: 7
+- **Total archivos**: 9
 - **Tipo `concept`**: 2
-- **Tipo `runbook`**: 0
+- **Tipo `runbook`**: 2
 - **Tipo `reference`**: 4
 - **Tipo `log`**: 1
 
